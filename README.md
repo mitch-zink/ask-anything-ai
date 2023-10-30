@@ -1,4 +1,4 @@
-# 📄 Ask Anything AI AI <a name="ask-anything-ai"></a>
+# 📄 Ask Anything AI <a name="ask-anything-ai"></a>
 
 
 [![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
