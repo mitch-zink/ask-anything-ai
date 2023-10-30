@@ -23,11 +23,11 @@ A powerful AI chatbot capable of providing real-time answers to technical questi
 
 ### 💡 See the AI in Action <a name="see-the-ai-in-action"></a>
 ### Startup Screen
-![Example Interaction 1](example_5.png)
+![Example Interaction 1](example_1.png)
 
 ### Sample Interaction
-A typical dialogue with the AI, fetching a relevant response from Snowflake documentation.
-![Example Interaction 2](example_4.png)
+A typical dialogue with the AI, fetching a relevant response from google.
+![Example Interaction 2](example_2.png)
 
 
 ## 🙋‍♂️ User Question Processing Workflow <a name="user-question-processing-workflow"></a>
