@@ -19,7 +19,7 @@
   - [👷‍♀️ Setup & Run for Windows](#setup-run-for-windows)
 
 ## ✨ Description <a name="description"></a>
-A highly accurate AI chatbot capable of providing real-time answers to technical questions by searching google
+A highly accurate AI chatbot capable of providing real-time answers to questions by searching google
 
 ### 💡 See the AI in Action <a name="see-the-ai-in-action"></a>
 ### Startup Screen
