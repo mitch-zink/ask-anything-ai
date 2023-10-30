@@ -1,4 +1,4 @@
-# 📄 Technical Documentation AI <a name="ask-anything-ai"></a>
+# 📄 Ask Anything AI AI <a name="ask-anything-ai"></a>
 
 
 [![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
@@ -8,7 +8,7 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ask-anything-ai.streamlit.app/)
 
 ## 🚀 Quick Navigation
-- [📄 Technical Documentation AI](#ask-anything-ai)
+- [📄 Ask Anything AI AI](#ask-anything-ai)
   - [✨ Description](#description)
   - [🤖 How to Use](#how-to-use)
   - [💡 See the AI in Action](#see-the-ai-in-action)
@@ -19,10 +19,7 @@
   - [👷‍♀️ Setup & Run for Windows](#setup-run-for-windows)
 
 ## ✨ Description <a name="description"></a>
-A powerful AI chatbot capable of providing real-time answers to technical questions by accessing documentation from various tools and services.
-
-## 🤖 How to Use <a name="how-to-use"></a>
-Interact with the chatbot by sending your questions related to anything supported tools and services. The chatbot will provide real-time responses by fetching relevant information by using google.
+A powerful AI chatbot capable of providing real-time answers to technical questions by searching google
 
 ### 💡 See the AI in Action <a name="see-the-ai-in-action"></a>
 ### Startup Screen
