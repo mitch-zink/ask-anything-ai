@@ -8,7 +8,7 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ask-anything-ai.streamlit.app/)
 
 ## 🚀 Quick Navigation
-- [📄 Ask Anything AI AI](#ask-anything-ai)
+- [📄 Ask Anything AI](#ask-anything-ai)
   - [✨ Description](#description)
   - [🤖 How to Use](#how-to-use)
   - [💡 See the AI in Action](#see-the-ai-in-action)
