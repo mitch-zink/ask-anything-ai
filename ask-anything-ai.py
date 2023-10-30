@@ -16,7 +16,7 @@ setup_logging()
 
 # Configuring the Streamlit page appearance
 st.set_page_config(
-    page_title="Ask Anything AI Chat Bot", page_icon="🧊", layout="wide"
+    page_title="Ask Anything AI Chat Bot", page_icon="🤖", layout="wide"
 )
 
 
