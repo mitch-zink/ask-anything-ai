@@ -15,9 +15,7 @@ def setup_logging():
 setup_logging()
 
 # Configuring the Streamlit page appearance
-st.set_page_config(
-    page_title="Ask Anything AI Chat Bot", page_icon="🤖", layout="wide"
-)
+st.set_page_config(page_title="Ask Anything AI Chat Bot", page_icon="🤖", layout="wide")
 
 
 def settings():
@@ -88,9 +86,7 @@ class PrintRetrievalHandler(BaseCallbackHandler):
 
 # Displaying the main header and information about the application
 st.header("Ask Anything AI Chat Bot")
-st.info(
-    "I can help answer any questions by searching Google"
-)
+st.info("I can help answer any questions by searching Google")
 
 # Initializing the retriever and language model if they haven't been initialized yet
 if "retriever" not in st.session_state:
